@@ -7,5 +7,7 @@ function checkObj(obj, checkProp) {
 }
   checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "gif")
   console.log(checkObj())
+  console.log("This is a commit");;
+  
 
   
